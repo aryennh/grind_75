@@ -1,0 +1,4 @@
+ #sorting solution
+        nums = sorted(nums)
+        return nums[len(nums)//2]
+    
